@@ -1,0 +1,23 @@
+{
+  "name": "backendskypro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryBobrov1999/backEndSkyPro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitryBobrov1999/backEndSkyPro/issues"
+  },
+  "homepage": "https://github.com/DmitryBobrov1999/backEndSkyPro#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
